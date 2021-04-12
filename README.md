@@ -8,4 +8,7 @@ Mindset growth is the mirror image if the love of learning,more specifically the
 - I also find it useful to review each of my days and assess how I’ve done
 ### *Image*
 ![Mindset growth](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
+
+Hi , My name is Ansam , I am welling to learn about software develpment , hopefully I can bond between it to health field as I already have background on.
+
 [gethubprofilelink](https://github.com/ansamlahham)
