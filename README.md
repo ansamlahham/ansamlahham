@@ -1,4 +1,14 @@
+# Welcome to my reading notes
+# Table of content 
+
+| Reading topic       | live URL |
+| :---        |    :----:   |       
+| Read01   | [link](https://ansamlahham.github.io/reading-notes/read01)     | 
+| Read02   | [link](https://ansamlahham.github.io/reading-notes/read02)      |
+| Read03   |         |
+
 # **Mindset growth** 🧠
+
 ## *Mindset growth definition*
 Mindset growth is the mirror image if the love of learning,more specifically the way of development through perseverance and effort; intelligence and talent .
 > Self, you need to embrace the growth mindset. The growth mindset is cool
