@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dynamic web pages with JavaScript
 
 ## How a browser sees a web page?
@@ -33,3 +34,6 @@ Each individual instruction or step is known as a statement. Statements should e
 
 * ### Comments
 You should write comments to explain what your code does.They help make your code easier to read and understand.This can help you and others who read your code
+=======
+
+>>>>>>> 136fcbf4d84afe61a1d07383904da4d96a60e445
