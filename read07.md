@@ -24,11 +24,9 @@ The color property allows you to specify the color of text inside an element. Yo
 These express colors in terms of how much red, green and blue are used to make it up. For
 example: rgb(100,100,90)
 
-
 * **hex codes**
 These are six-digit codes that represent the amount of red, green and blue in a color,
 preceded by a pound or hash #sign. For example: #ee3e80
-
 
 * **color names**
 There are 147 predefined color names that are recognized by browsers. For example:
