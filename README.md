@@ -17,3 +17,4 @@
 | Read06   | [link](https://ansamlahham.github.io/reading-notes/read06)     | 
 | Read07   | [link](https://ansamlahham.github.io/reading-notes/read07)      |
 | Growth Mindset   | [link](https://ansamlahham.github.io/reading-notes/mindset)   |
+| Read09   | [link](read09)   |
